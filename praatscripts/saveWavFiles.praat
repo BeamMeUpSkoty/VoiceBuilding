@@ -1,7 +1,7 @@
 # Save selected sounds as seperate wave files
 
 tg = Read from file... ../resources/raw-TexGrids/combined_clean.TextGrid
-snd = Open long sound file... ../resources/raw-audio/group3_norm.flac
+snd = Open long sound file... ../resources/raw-audio/group3_16k.flac
 plus tg
 View & Edit
 
