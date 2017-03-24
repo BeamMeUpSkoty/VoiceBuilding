@@ -1,0 +1,14 @@
+arctic_a0403
+arctic_a0402
+arctic_a0309
+
+files with mistakes <usb>
+arctic_a0277
+arctic_a0282
+arctic_a0589
+arctic_b0132
+
+files with mistakes after pitch
+arctic_a0282
+
+
