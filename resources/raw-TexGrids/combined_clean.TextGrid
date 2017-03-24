@@ -23,7 +23,7 @@ item []:
         intervals [3]:
             xmin = 2.804011449752883 
             xmax = 7.943999999999793 
-            text = "arctic_a0001  " 
+            text = "arctic_a0001" 
         intervals [4]:
             xmin = 7.943999999999793 
             xmax = 8.223999999999792 
@@ -6387,7 +6387,7 @@ item []:
         intervals [1594]:
             xmin = 4516.688 
             xmax = 4516.968 
-            text = " " 
+            text = "" 
         intervals [1595]:
             xmin = 4516.968 
             xmax = 4520.371292912016 
