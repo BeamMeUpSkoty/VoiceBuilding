@@ -1,7 +1,7 @@
 # Save selected sounds as seperate wave files
 
-tg = Read from file... ../resources/TexGrids/combined_clean.TextGrid
-snd = Open long sound file... ../resources/raw-audio/group3.flac
+tg = Read from file... combined_clean.TextGrid
+snd = Open long sound file... group3.flac
 plus tg
 View & Edit
 
@@ -14,7 +14,7 @@ for i to ni
 		intervalEnd = Get end point... 1 i 
 		select snd
 		part = Extract part... intervalStart intervalEnd yes
-		Write to WAV file... ../resources/wav/'label$'.wav
+		Write to WAV file... wav/'label$'.wav
 	endif
 	select tg
 endfor
